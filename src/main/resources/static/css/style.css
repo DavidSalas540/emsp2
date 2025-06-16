@@ -1,10 +1,10 @@
 html,body {
 height:100%;
-background:white;
+background:rgb(255, 0, 0);
 }
 header {
 display:block;
-background:#d7e0e9;
+background:#007bf5;
 padding:10px 0px;
 }
 section {
@@ -21,7 +21,7 @@ margin-top: -50px;
 height: 40px;
 padding:5px 0px;
 clear: both;
-background: #d7e0e9;
+background: #00ff3c;
 text-align: center;
 color: black;
 }
